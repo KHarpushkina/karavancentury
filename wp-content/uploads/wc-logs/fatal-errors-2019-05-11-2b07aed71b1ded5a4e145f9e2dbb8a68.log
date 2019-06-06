@@ -1,0 +1,22 @@
+2019-05-11T11:54:46+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:35:43+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:35:44+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:35:47+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:35:52+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:36:44+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:36:51+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:37:04+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:37:33+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php на строке 41
+
+2019-05-11T12:37:43+00:00 CRITICAL Cannot redeclare getDirList() (previously declared in D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\translations\class.theme-modules.php:25) в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\customizer\customizer-repeater\class.theme-modules.php на строке 41
+
+2019-05-11T12:39:25+00:00 CRITICAL require(): Failed opening required 'D:\xampp\htdocs\wordpress/wp-content/themes/shop-isle-pro/inc/customizer/customizer-repeater/functions.php' (include_path='D:\xampp\php\PEAR') в D:\xampp\htdocs\wordpress\wp-content\themes\shop-isle-pro\inc\init.php на строке 72
+
